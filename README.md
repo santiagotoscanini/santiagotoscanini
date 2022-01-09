@@ -34,7 +34,7 @@ Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo ğŸ‡ºğŸ
 My current configuration:
 
 <a href="https://github.com/santiagotoscanini/dotfiles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagotoscanini&repo=dotfiles&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagotoscanini&repo=dotfiles&theme=dark" />
 </a>
 </br></br></br></br></br>
  </div>
