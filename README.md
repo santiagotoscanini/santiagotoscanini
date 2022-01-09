@@ -3,19 +3,14 @@
 
 Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay. I'm currently working on @MELI in the `Machine Learning Services` Team.
 
+In 1 month I get my BSc. <i style="color:gray"># TODO(santiagotoscanini): Move this to done on <b>2022/02</b>.</i>
+
+---
+
 <p align="left"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/santiagotoscanini/count.svg" />
 </p>
-
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=left>
-
-<i style="color:gray"># TODO(santiagotoscanini): Change this on <b>2022/02</b>.</i>
-
-In 1 month I get my BSc.
-
-</br>
-
 
 ## Technologies
 
