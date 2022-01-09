@@ -17,5 +17,5 @@
 
 <p align="left">
   <a href="https://github.com/santiagotoscanini" alt="https://github.com/santiagotoscanini"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=santiagotoscanini&color=000000"></a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="650"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="550"/>
 </p>
