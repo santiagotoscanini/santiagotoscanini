@@ -1,4 +1,5 @@
 ## Languages and Tools
+
 <!-- Go, Node.JS, typescript, Docker, K8s, SQL AWS, GCP, Shell(zsh), javascript, redis, mongo, datadog, newrelic, postgres, spring, jupyter notebook, scikit learn, numpy, insomnia, grpc -->
 <img align="left" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/57925294/136811717-8698d576-9cc4-42c3-b0da-e8c2b8034c2c.png" />
@@ -14,6 +15,7 @@
 
 ![snake gif](https://github.com/santiagotoscanini/santiagotoscanini/blob/output/github-contribution-grid-snake.svg)
 
----
-
-![Santiago Toscanini's github stats](https://github-readme-stats.vercel.app/api?username=santiagotoscanini&show_icons=true&count_private=true&include_all_commits=true&theme=react)
+<p align="left">
+  <a href="https://github.com/santiagotoscanini" alt="https://github.com/santiagotoscanini"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=santiagotoscanini&color=000000"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="650"/>
+</p>
