@@ -1,13 +1,11 @@
 ## 👋 Hi Everyone
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 [![Linkedin Badge](https://img.shields.io/badge/-santiagotoscanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagotoscanini/)](https://www.linkedin.com/in/santiagotoscanini)
 [![](https://visitor-badge.glitch.me/badge?page_id=github.com/santiagotoscanini)](https://github.com/santiagotoscanini/santiagotoscanini)
 [![GitHub followers](https://img.shields.io/github/followers/santiagotoscanini?label=Follow&style=social)](https://github.com/santiagotoscanini/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-toscaninisantiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toscaninisantiago@gmail.com)](mailto:toscaninisantiago@gmail.com)
-
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay. I'm currently working on @MELI in the `Machine Learning Services` Team.
 
