@@ -1,16 +1,17 @@
 ## 👋 Hi Everyone
+
+![build: passing](https://img.shields.io/badge/build-passing-success)
+[![Linkedin Badge](https://img.shields.io/badge/-santiagotoscanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagotoscanini/)](https://www.linkedin.com/in/santiagotoscanini)
+[![](https://visitor-badge.glitch.me/badge?page_id=github.com/santiagotoscanini)](https://github.com/santiagotoscanini/santiagotoscanini)
+[![GitHub followers](https://img.shields.io/github/followers/santiagotoscanini?label=Follow&style=social)](https://github.com/santiagotoscanini/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-toscaninisantiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toscaninisantiago@gmail.com)](mailto:toscaninisantiago@gmail.com)
+
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay. I'm currently working on @MELI in the `Machine Learning Services` Team.
 
 - [ ] In 1 month I get my BSc. <i style="color:gray"># TODO(santiagotoscanini): Move this to done on <b>2022/02</b>.</i>
-
----
-
-<p align="left"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/santiagotoscanini/count.svg" />
-</p>
 
 ## Technologies
 
@@ -28,6 +29,14 @@ Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺�
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></img>
   <img src="https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDAxIiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDIiPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29sb3I9InJlZCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCI+PHBhdGggZD0iICAgICAgICBNIDAgMAogICAgICAgIHYgMjQKICAgICAgICBoIDI0CiAgICAgICAgViAwCiAgICAgICAgWgogICAgICAgIG0gMTcuMTc5NyAyLjk0NzcKICAgICAgICBhIDUuNDUyIDUuNDUyIDAgMCAxIDMuOTA0NyAxLjM2NAogICAgICAgIEwgMTkuNzA3OCA1Ljk3MgogICAgICAgIGEgMy42NzIgMy42NzIgMCAwIDAtMi41OTYtMS4wMDg2CiAgICAgICAgYyAtMS42IDAtMi44NTU1IDEuNDA4LTIuODU1NSAzLjA5NgogICAgICAgIHYgLjAyODIKICAgICAgICBjIDAgMS44MTYgMS4yNTE3IDMuMTUyMyAzLjAxMTcgMy4xNTIzCiAgICAgICAgYSAzLjQ5MiAzLjQ5MiAwIDAgMCAyLjA2NC0uNTkyMQogICAgICAgIFYgOS4yMjM0CiAgICAgICAgaCAtMi4yCiAgICAgICAgViA3LjMzNgogICAgICAgIGggNC4zMTU3CiAgICAgICAgdiA0LjMxNTcKICAgICAgICBhIDYuNDM2IDYuNDM2IDAgMCAxLTQuMjQzOCAxLjU3NTcKICAgICAgICBjIC0zLjA5NiAwLTUuMjI0Mi0yLjE3OTctNS4yMjQyLTUuMTExNwogICAgICAgIHYgLS4wMjgxCiAgICAgICAgYSA1LjEgNS4xIDAgMCAxIDUuMi01LjEzOTgKICAgICAgICB6CiAgICAgICAgbSAtMTQuNzQzOC4xNzE4CiAgICAgICAgaCAzLjg3NTgKICAgICAgICBjIDMuMTIgMCA1LjI4MDUgMi4xNDM5IDUuMjgwNSA0LjkzOTkKICAgICAgICB2IC4wMjgKICAgICAgICBjIDAgMi44LTIuMTYwNSA0Ljk2OC01LjI4MDUgNC45NjgKICAgICAgICBIIDIuNDM2CiAgICAgICAgWgogICAgICAgIG0gNC4wNzUgMS45Njg4CiAgICAgICAgYSAyLjg1MiAyLjg1MiAwIDAgMC0uMTk5Mi4wMDMKICAgICAgICBIIDQuNjIwMwogICAgICAgIHYgNgogICAgICAgIGggMS42OTE0CiAgICAgICAgQSAyLjgzMiAyLjgzMiAwIDAgMCA5LjMwNCA4LjEyMzUKICAgICAgICB2IC0uMDM2CiAgICAgICAgYSAyLjg1MiAyLjg1MiAwIDAgMC0yLjc5My0yLjk5OTEKICAgICAgICBaCiAgICAgICAgbSAtNC4zMDMgMTQuNDA3CiAgICAgICAgaCA5CiAgICAgICAgdiAxLjUKICAgICAgICBoIC05CiAgICAgICAgegogICAgIiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iY29sb3IwMDAgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+"></img>
+</br></br>
+
+My current configuration:
+
+<a href="https://github.com/santiagotoscanini/dotfiles">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagotoscanini&repo=dotfiles&theme=buefy" />
+</a>
+</br></br></br></br></br>
  </div>
 </details>
 
