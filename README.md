@@ -17,6 +17,7 @@ In 1 month I get my BSc. <i style="color:gray"># TODO(santiagotoscanini): Move t
 <details>
  <summary>OS and Tooling</summary>
  <div align="left">
+  <img src="https://img.shields.io/badge/neovim-4d4d4d?style=for-the-badge&logo=neovim"></img>
   <img src="https://img.shields.io/badge/tmux-4d4d4d?style=for-the-badge&logo=tmux"></img>
   <img src="https://img.shields.io/badge/alacritty-4d4d4d?style=for-the-badge&logo=alacritty"></img>
   <img src="https://img.shields.io/badge/insomnia-4d4d4d?style=for-the-badge&logo=insomnia&logoColor=blueviolet"></img>
