@@ -7,15 +7,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/santiagotoscanini?label=Follow&style=social)](https://github.com/santiagotoscanini/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-toscaninisantiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toscaninisantiago@gmail.com)](mailto:toscaninisantiago@gmail.com)
 
-Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay. I'm currently working on @MELI in the `Machine Learning Services` Team.
+Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay.
 
-- [ ] In 1 month I get my BSc. <i style="color:gray"># TODO(santiagotoscanini): Move this to done on <b>2022/02</b>.</i>
+I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machine Learning Services` Team.
+
+- [ ] In 1 month, I get my BSc. <i style="color:gray"># TODO(santiagotoscanini): Move this to done on <b>2022/02</b>.</i>
 
 ## Technologies
 
 <details>
  <summary>OS and Tooling</summary>
- <div align="left">
+ <div align="left">  
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></img>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></img>
+  
   <img src="https://img.shields.io/badge/neovim-4d4d4d?style=for-the-badge&logo=neovim"></img>
   <img src="https://img.shields.io/badge/tmux-4d4d4d?style=for-the-badge&logo=tmux"></img>
   <img src="https://img.shields.io/badge/alacritty-4d4d4d?style=for-the-badge&logo=alacritty"></img>
@@ -23,18 +28,17 @@ Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺�
   <img src="https://img.shields.io/badge/GNU_Stow-4d4d4d?style=for-the-badge&logo=gnu&logoColor=0000000"></img>
   <img src="https://img.shields.io/badge/bash/zsh_scripting-4d4d4d?style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
   <img src="https://img.shields.io/badge/-jupyter-4d4d4d?style=for-the-badge&logo=jupyter"></img>
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></img>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></img>
   <img src="https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDAxIiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDIiPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29sb3I9InJlZCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCI+PHBhdGggZD0iICAgICAgICBNIDAgMAogICAgICAgIHYgMjQKICAgICAgICBoIDI0CiAgICAgICAgViAwCiAgICAgICAgWgogICAgICAgIG0gMTcuMTc5NyAyLjk0NzcKICAgICAgICBhIDUuNDUyIDUuNDUyIDAgMCAxIDMuOTA0NyAxLjM2NAogICAgICAgIEwgMTkuNzA3OCA1Ljk3MgogICAgICAgIGEgMy42NzIgMy42NzIgMCAwIDAtMi41OTYtMS4wMDg2CiAgICAgICAgYyAtMS42IDAtMi44NTU1IDEuNDA4LTIuODU1NSAzLjA5NgogICAgICAgIHYgLjAyODIKICAgICAgICBjIDAgMS44MTYgMS4yNTE3IDMuMTUyMyAzLjAxMTcgMy4xNTIzCiAgICAgICAgYSAzLjQ5MiAzLjQ5MiAwIDAgMCAyLjA2NC0uNTkyMQogICAgICAgIFYgOS4yMjM0CiAgICAgICAgaCAtMi4yCiAgICAgICAgViA3LjMzNgogICAgICAgIGggNC4zMTU3CiAgICAgICAgdiA0LjMxNTcKICAgICAgICBhIDYuNDM2IDYuNDM2IDAgMCAxLTQuMjQzOCAxLjU3NTcKICAgICAgICBjIC0zLjA5NiAwLTUuMjI0Mi0yLjE3OTctNS4yMjQyLTUuMTExNwogICAgICAgIHYgLS4wMjgxCiAgICAgICAgYSA1LjEgNS4xIDAgMCAxIDUuMi01LjEzOTgKICAgICAgICB6CiAgICAgICAgbSAtMTQuNzQzOC4xNzE4CiAgICAgICAgaCAzLjg3NTgKICAgICAgICBjIDMuMTIgMCA1LjI4MDUgMi4xNDM5IDUuMjgwNSA0LjkzOTkKICAgICAgICB2IC4wMjgKICAgICAgICBjIDAgMi44LTIuMTYwNSA0Ljk2OC01LjI4MDUgNC45NjgKICAgICAgICBIIDIuNDM2CiAgICAgICAgWgogICAgICAgIG0gNC4wNzUgMS45Njg4CiAgICAgICAgYSAyLjg1MiAyLjg1MiAwIDAgMC0uMTk5Mi4wMDMKICAgICAgICBIIDQuNjIwMwogICAgICAgIHYgNgogICAgICAgIGggMS42OTE0CiAgICAgICAgQSAyLjgzMiAyLjgzMiAwIDAgMCA5LjMwNCA4LjEyMzUKICAgICAgICB2IC0uMDM2CiAgICAgICAgYSAyLjg1MiAyLjg1MiAwIDAgMC0yLjc5My0yLjk5OTEKICAgICAgICBaCiAgICAgICAgbSAtNC4zMDMgMTQuNDA3CiAgICAgICAgaCA5CiAgICAgICAgdiAxLjUKICAgICAgICBoIC05CiAgICAgICAgegogICAgIiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iY29sb3IwMDAgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+"></img>
-</br></br>
+  
+</br>
 
 My current configuration:
 
 <a href="https://github.com/santiagotoscanini/dotfiles">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagotoscanini&repo=dotfiles&theme=dark" />
 </a>
-</br></br></br></br></br>
+</br></br></br></br></br></br>
  </div>
 </details>
 
@@ -97,6 +101,9 @@ My current configuration:
    <img src="https://img.shields.io/badge/MongoDB-363636?style=for-the-badge&logo=mongodb"></img>
    <img src="https://img.shields.io/badge/Redis-363636?style=for-the-badge&logo=Redis"></img>
    <img src="https://img.shields.io/badge/PostgreSQL-363636?style=for-the-badge&logo=postgresql"></img>
+   <img src="https://img.shields.io/badge/sqlite-363636?style=for-the-badge&logo=sqlite&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/bigquery-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTE0LjQ4IDU4LjE5NkwuNTU4IDM0LjA4MmMtLjc0NC0xLjI4OC0uNzQ0LTIuODc2IDAtNC4xNjRMMTQuNDggNS44MDVjLjc0My0xLjI4NyAyLjExNS0yLjA4IDMuNi0yLjA4MmgyNy44NTdjMS40OC4wMDcgMi44NDUuOCAzLjU4NSAyLjA4MmwxMy45MiAyNC4xMTNjLjc0NCAxLjI4OC43NDQgMi44NzYgMCA0LjE2NEw0OS41MiA1OC4xOTZjLS43NDMgMS4yODctMi4xMTUgMi4wOC0zLjYgMi4wODJIMTguMDdjLTEuNDgzLS4wMDUtMi44NS0uNzk4LTMuNTkzLTIuMDgyeiIgZmlsbD0iIzQzODZmYSIvPjxwYXRoIGQ9Ik00MC42OTcgMjQuMjM1czMuODcgOS4yODMtMS40MDYgMTQuNTQ1LTE0Ljg4MyAxLjg5NC0xNC44ODMgMS44OTRMNDMuOTUgNjAuMjdoMS45ODRjMS40ODYtLjAwMiAyLjg1OC0uNzk2IDMuNi0yLjA4Mkw1OC43NSA0Mi4yM3oiIG9wYWNpdHk9Ii4xIi8+PHBhdGggZD0iTTQ1LjI2NyA0My4yM0w0MSAzOC45NTNhLjY3LjY3IDAgMCAwLS4xNTgtLjEyIDExLjYzIDExLjYzIDAgMSAwLTIuMDMyIDIuMDM3LjY3LjY3IDAgMCAwIC4xMTMuMTVsNC4yNzcgNC4yNzdhLjY3LjY3IDAgMCAwIC45NDcgMGwxLjEyLTEuMTJhLjY3LjY3IDAgMCAwIDAtLjk0N3pNMzEuNjQgNDAuNDY0YTguNzUgOC43NSAwIDEgMSA4Ljc0OS04Ljc0OSA4Ljc1IDguNzUgMCAwIDEtOC43NDkgOC43NDl6bS01LjU5My05LjIxNnYzLjYxNmMuNTU3Ljk4MyAxLjM2MyAxLjgwMyAyLjMzOCAyLjM3NXYtNi4wMTN6bTQuMzc1LTIuOTk4djkuNzcyYTYuNDUgNi40NSAwIDAgMCAyLjMzOCAwVjI4LjI1em02Ljc2NCA2LjYwNnYtMi4xNDJIMzQuODV2NC41YTYuNDMgNi40MyAwIDAgMCAyLjMzOC0yLjM2OHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></img>
+ <img src="https://img.shields.io/badge/redshift-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNjE1IDE3ODMuNyIgdmlld0JveD0iMCAwIDE2MTUgMTc4My43IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im04MDcuNSAxMzYzLjggNjc4LjMgMTYxLjV2LTEyNzAuNWwtNjc4LjMgMTYxLjV6IiBmaWxsPSIjMjA1Yjk3Ii8+PHBhdGggZD0ibTE0ODUuOCAyNTQuOCAxMjkuMiA2NC42djExNDEuM2wtMTI5LjIgNjQuNnptLTY3OC4zIDExMDktNjc4LjMgMTYxLjV2LTEyNzAuNWw2NzguMyAxNjEuNXoiIGZpbGw9IiM1MTkzY2UiLz48cGF0aCBkPSJtMTI5LjIgMjU0LjgtMTI5LjIgNjQuNnYxMTQxLjNsMTI5LjIgNjQuNnoiIGZpbGw9IiMyMDViOTciLz48cGF0aCBkPSJtOTc5LjggMTc4My43IDI1OC40LTEyOS4ydi0xNTI1LjNsLTI1OC40LTEyOS4yLTc5IDg0N3oiIGZpbGw9IiM1MTkzY2UiLz48cGF0aCBkPSJtNjM1LjIgMTc4My43LTI1OC40LTEyOS4ydi0xNTI1LjNsMjU4LjQtMTI5LjIgNzkgODQ3eiIgZmlsbD0iIzIwNWI5NyIvPjxwYXRoIGQ9Im02MzUuMiAwaDM0OC4xdjE3ODAuMWgtMzQ4LjF6IiBmaWxsPSIjMmU3M2I3Ii8+PC9zdmc+"></img>
  </div>
 </details>
 
