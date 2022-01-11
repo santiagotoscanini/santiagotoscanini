@@ -51,7 +51,7 @@ My current configuration:
    <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp"></img>
    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python"></img>
    <img src="https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java"></img>
-   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"></img>
+   <img src="https://img.shields.io/badge/-TypeScript-66b3ff?style=for-the-badge&logo=typescript"></img>
    <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"></img>
    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></img>
  </div>
