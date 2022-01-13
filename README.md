@@ -19,8 +19,6 @@ I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machin
  <summary>OS and Tooling</summary>
  <div align="left">  
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></img>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></img>
-  
   <img src="https://img.shields.io/badge/neovim-4d4d4d?style=for-the-badge&logo=neovim"></img>
   <img src="https://img.shields.io/badge/tmux-4d4d4d?style=for-the-badge&logo=tmux"></img>
   <img src="https://img.shields.io/badge/alacritty-4d4d4d?style=for-the-badge&logo=alacritty"></img>
