@@ -19,14 +19,14 @@ I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machin
  <summary>OS and Tooling</summary>
  <div align="left">  
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></img>
-  <img src="https://img.shields.io/badge/neovim-4d4d4d?style=for-the-badge&logo=neovim"></img>
-  <img src="https://img.shields.io/badge/tmux-4d4d4d?style=for-the-badge&logo=tmux"></img>
-  <img src="https://img.shields.io/badge/alacritty-4d4d4d?style=for-the-badge&logo=alacritty"></img>
-  <img src="https://img.shields.io/badge/insomnia-4d4d4d?style=for-the-badge&logo=insomnia&logoColor=blueviolet"></img>
-  <img src="https://img.shields.io/badge/GNU_Stow-4d4d4d?style=for-the-badge&logo=gnu&logoColor=0000000"></img>
-  <img src="https://img.shields.io/badge/bash/zsh_scripting-4d4d4d?style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/-jupyter-4d4d4d?style=for-the-badge&logo=jupyter"></img>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim"></img>
+  <img src="https://img.shields.io/badge/tmux-black?style=for-the-badge&logo=tmux"></img>
+  <img src="https://img.shields.io/badge/alacritty-black?style=for-the-badge&logo=alacritty"></img>
+  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=insomnia&logoColor=orange"></img>
+  <img src="https://img.shields.io/badge/GNU_Stow-black?style=for-the-badge&logo=gnu&logoColor=0000000"></img>
+  <img src="https://img.shields.io/badge/bash/zsh_scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter"></img>
+  <img src="https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion&logoColor=white"></img>
   <img src="https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDAxIiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDIiPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29sb3I9InJlZCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCI+PHBhdGggZD0iICAgICAgICBNIDAgMAogICAgICAgIHYgMjQKICAgICAgICBoIDI0CiAgICAgICAgViAwCiAgICAgICAgWgogICAgICAgIG0gMTcuMTc5NyAyLjk0NzcKICAgICAgICBhIDUuNDUyIDUuNDUyIDAgMCAxIDMuOTA0NyAxLjM2NAogICAgICAgIEwgMTkuNzA3OCA1Ljk3MgogICAgICAgIGEgMy42NzIgMy42NzIgMCAwIDAtMi41OTYtMS4wMDg2CiAgICAgICAgYyAtMS42IDAtMi44NTU1IDEuNDA4LTIuODU1NSAzLjA5NgogICAgICAgIHYgLjAyODIKICAgICAgICBjIDAgMS44MTYgMS4yNTE3IDMuMTUyMyAzLjAxMTcgMy4xNTIzCiAgICAgICAgYSAzLjQ5MiAzLjQ5MiAwIDAgMCAyLjA2NC0uNTkyMQogICAgICAgIFYgOS4yMjM0CiAgICAgICAgaCAtMi4yCiAgICAgICAgViA3LjMzNgogICAgICAgIGggNC4zMTU3CiAgICAgICAgdiA0LjMxNTcKICAgICAgICBhIDYuNDM2IDYuNDM2IDAgMCAxLTQuMjQzOCAxLjU3NTcKICAgICAgICBjIC0zLjA5NiAwLTUuMjI0Mi0yLjE3OTctNS4yMjQyLTUuMTExNwogICAgICAgIHYgLS4wMjgxCiAgICAgICAgYSA1LjEgNS4xIDAgMCAxIDUuMi01LjEzOTgKICAgICAgICB6CiAgICAgICAgbSAtMTQuNzQzOC4xNzE4CiAgICAgICAgaCAzLjg3NTgKICAgICAgICBjIDMuMTIgMCA1LjI4MDUgMi4xNDM5IDUuMjgwNSA0LjkzOTkKICAgICAgICB2IC4wMjgKICAgICAgICBjIDAgMi44LTIuMTYwNSA0Ljk2OC01LjI4MDUgNC45NjgKICAgICAgICBIIDIuNDM2CiAgICAgICAgWgogICAgICAgIG0gNC4wNzUgMS45Njg4CiAgICAgICAgYSAyLjg1MiAyLjg1MiAwIDAgMC0uMTk5Mi4wMDMKICAgICAgICBIIDQuNjIwMwogICAgICAgIHYgNgogICAgICAgIGggMS42OTE0CiAgICAgICAgQSAyLjgzMiAyLjgzMiAwIDAgMCA5LjMwNCA4LjEyMzUKICAgICAgICB2IC0uMDM2CiAgICAgICAgYSAyLjg1MiAyLjg1MiAwIDAgMC0yLjc5My0yLjk5OTEKICAgICAgICBaCiAgICAgICAgbSAtNC4zMDMgMTQuNDA3CiAgICAgICAgaCA5CiAgICAgICAgdiAxLjUKICAgICAgICBoIC05CiAgICAgICAgegogICAgIiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iY29sb3IwMDAgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+"></img>
   
 </br>
