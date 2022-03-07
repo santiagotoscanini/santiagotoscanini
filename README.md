@@ -11,8 +11,6 @@ Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo ðŸ‡ºðŸ
 
 I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machine Learning Services` Team.
 
-- [ ] In 1 month, I get my BSc. <i style="color:gray"># TODO(santiagotoscanini): Move this to done on <b>2022/02</b>.</i>
-
 ## Technologies
 
 <details>
