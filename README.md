@@ -49,6 +49,7 @@ My current configuration:
    <img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=red"></img>
    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript"></img>
    <img src="https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white"></img>
    <img src="https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex&logoColor=white"></img>
  </div>
 </details>
@@ -72,6 +73,7 @@ My current configuration:
    <img src="https://img.shields.io/badge/-spring-E34A86?style=for-the-badge&logo=spring"></img>
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white"></img>
 
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></img>
    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></img>
