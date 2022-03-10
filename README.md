@@ -1,5 +1,5 @@
 ## 👋 Hi Everyone
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='200"'>
+<!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='200"'> -->
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 [![Linkedin Badge](https://img.shields.io/badge/-santiagotoscanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagotoscanini/)](https://www.linkedin.com/in/santiagotoscanini)
