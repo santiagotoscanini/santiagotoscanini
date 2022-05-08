@@ -17,6 +17,7 @@ I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machin
 
 <details>
  <summary>OS and Tooling</summary>
+ </br>
  <div align="left">  
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></img>
   <img src="https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim"></img>
@@ -33,15 +34,18 @@ I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machin
 
 My current configuration:
 
-<a href="https://github.com/santiagotoscanini/dotfiles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagotoscanini&repo=dotfiles&theme=dark" />
-</a>
-</br></br></br></br></br></br>
+ <a href="https://github.com/santiagotoscanini/dotfiles">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagotoscanini&repo=dotfiles&theme=dark" />
+ </a>
+ 
+ <img src="https://github.com/santiagotoscanini/santiagotoscanini/blob/master/static/gopher.png" width="110px" height="110px"></img>
+ </br>
  </div>
 </details>
 
 <details>
  <summary>Languages</summary>
+  </br>
   <div align="left">
    <img src="https://img.shields.io/badge/go-black?style=for-the-badge&logo=go"></img>
    <img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua"></img>
@@ -58,6 +62,7 @@ My current configuration:
 
 <details>
  <summary>Platform</summary>
+  </br>
   <div align="left">
     <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"></img>
@@ -70,6 +75,7 @@ My current configuration:
 
 <details>
  <summary>Frameworks and Libraries</summary>
+  </br>
   <div align="left">
    <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"></img>
    <img src="https://img.shields.io/badge/-spring-E34A86?style=for-the-badge&logo=spring"></img>
@@ -89,6 +95,7 @@ My current configuration:
 
 <details>
  <summary>Cloud</summary>
+  </br>
   <div align="left">
    <img src="https://img.shields.io/badge/AWS-757575?style=for-the-badge&logo=amazon-aws"></img>
    <img src="https://img.shields.io/badge/GCP-757575?style=for-the-badge&logo=google-cloud"></img>
@@ -97,6 +104,7 @@ My current configuration:
 
 <details>
  <summary>Databases</summary>
+  </br>
   <div align="left">
    <img src="https://img.shields.io/badge/MongoDB-363636?style=for-the-badge&logo=mongodb"></img>
    <img src="https://img.shields.io/badge/Redis-363636?style=for-the-badge&logo=Redis"></img>
@@ -110,6 +118,7 @@ My current configuration:
 
 <details>
  <summary>Monitoring and Alerting</summary>
+  </br>
   <div align="left">
    <img src="https://img.shields.io/badge/Datadog-black?style=for-the-badge&logo=datadog&logoColor=c17ae6"></img>
    <img src="https://img.shields.io/badge/New_Relic-black?style=for-the-badge&logo=newrelic"></img>
