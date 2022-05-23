@@ -11,7 +11,7 @@
 
 Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay.
 
-I'm currently working at [@MELI](https://github.com/mercadolibre) in the `Machine Learning Services` Team.
+I'm currently working at [BlastRadius](https://www.blastradius.ai).
 
 ## Technologies
 
