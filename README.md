@@ -11,7 +11,7 @@
 
 Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay.
 
-I'm currently working at [BlastRadius](https://www.blastradius.ai).
+I'm currently working at [RadiantSecurity](https://www.radiantsecurity.ai).
 
 ## Technologies
 
