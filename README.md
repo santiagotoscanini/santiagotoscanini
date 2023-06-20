@@ -7,7 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-santiagotoscanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagotoscanini/)](https://www.linkedin.com/in/santiagotoscanini)
 [![](https://visitor-badge.glitch.me/badge?page_id=github.com/santiagotoscanini)](https://github.com/santiagotoscanini/santiagotoscanini)
 [![GitHub followers](https://img.shields.io/github/followers/santiagotoscanini?label=Follow&style=social)](https://github.com/santiagotoscanini/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-toscaninisantiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toscaninisantiago@gmail.com)](mailto:toscaninisantiago@gmail.com)
 
 Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay.
 
