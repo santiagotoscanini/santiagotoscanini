@@ -8,9 +8,11 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=github.com/santiagotoscanini)](https://github.com/santiagotoscanini/santiagotoscanini)
 [![GitHub followers](https://img.shields.io/github/followers/santiagotoscanini?label=Follow&style=social)](https://github.com/santiagotoscanini/?tab=follow)
 
-Hi guys, I'm Santiago Toscanini. I am a Software Engineer from Montevideo 🇺🇾, Uruguay.
+Hi guys, I'm Santiago Toscanini. I am a Senior SRE from Montevideo 🇺🇾, Uruguay.
 
-I'm currently working at [RadiantSecurity](https://www.radiantsecurity.ai).
+I'm currently working at [Canary Technologies](https://www.canarytechnologies.com).
+
+You can find more about me at my [personal website](https://toscanini.me).
 
 ## Technologies
 
