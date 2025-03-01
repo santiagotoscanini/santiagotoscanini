@@ -8,7 +8,7 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=github.com/santiagotoscanini)](https://github.com/santiagotoscanini/santiagotoscanini)
 [![GitHub followers](https://img.shields.io/github/followers/santiagotoscanini?label=Follow&style=social)](https://github.com/santiagotoscanini/?tab=follow)
 
-Hi guys, I'm Santiago Toscanini. I am a Senior SRE from Montevideo 🇺🇾, Uruguay.
+Hi guys, I'm Santiago Toscanini. I am a Senior SWE from Montevideo 🇺🇾, Uruguay.
 
 I'm currently working at [Canary Technologies](https://www.canarytechnologies.com).
 
